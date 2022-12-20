@@ -6,7 +6,6 @@ from model import export_csv
 from model import export_txt
 
 
-# запуск справочника
 def start_spav():
     iam = ''
     spr = []
